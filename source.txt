@@ -1,0 +1,4 @@
+functional.js
+https://blog.bitsrc.io/functional-programming-in-javascript-how-and-why-94e7a97343b
+
+30-seconds-of-javascript
